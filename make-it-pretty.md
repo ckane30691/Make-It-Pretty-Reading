@@ -29,7 +29,7 @@ this wasn't done by a professional dev? In other words, does your website look o
 - [Use Google Font Pairing](https://fonts.google.com/) recommendations to find good fonts. In general you should not have more that 2 fonts in a web app and you should avoid mixing Serif and Sans-serif fonts.
 - Pay attention to font-size and weight! You should use [textual hierarchies](https://blog.designcrowd.com/article/867/understanding-the-hierarchy-of-text) to break up your text and make it easier to read. Prefer multiple short lines to fewer long lines of text
   when displaying info to the user. Your headers should be large and paragraphs should be slightly smaller font size. Having widely varying and inconsistent font sizes is one of the surest signs that a website was designed by a beginner.
-- Most modern websites slightly round the corners of buttons and background cards/modals. You should too.
+- Most modern websites slightly round the corners of buttons and background cards/modals. [You should too](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius).
 - Take advantage of advanced CSS features like transitions and shadows to make your site pop.
 - Make sure you let your user know what parts of the site are alive through [affordances](https://uxplanet.org/ux-design-glossary-how-to-use-affordances-in-user-interfaces-393c8e9686e4).
 
